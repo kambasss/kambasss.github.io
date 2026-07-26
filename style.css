@@ -28,3 +28,39 @@ nav a {
 nav a:hover {
     color: #888888; 
 }
+
+/* --- about page styles --- */
+/* --- ΣΤΥΛ ΓΙΑ ΤΙΣ ΣΕΛΙΔΕΣ ABOUT & PROJECTS --- */
+
+.content {
+    max-width: 700px;
+    margin: 0 auto; 
+    padding: 60px 20px; 
+    color: #ffffff;
+}
+
+.content h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    font-weight: normal;
+}
+
+.content p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #cccccc; 
+}
+
+
+.back-link {
+    color: #666666;
+    text-decoration: none;
+    font-size: 16px;
+    display: inline-block;
+    margin-bottom: 40px;
+    transition: color 0.3s ease;
+}
+
+.back-link:hover {
+    color: #ffffff;
+}
